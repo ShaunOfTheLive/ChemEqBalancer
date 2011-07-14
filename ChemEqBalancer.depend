@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1295573499 source:c:\users\shaun\documents\programming\c++\chemeqbalancer\main.cpp
+	<iostream>
+	"Element.h"
+	"Molecule.h"
+
+1295572986 c:\users\shaun\documents\programming\c++\chemeqbalancer\atom.h
+	<iostream>
+	<set>
+	<string>
+	"Elements_rawlist.txt"
+
+1294261619 source:c:\users\shaun\documents\programming\c++\chemeqbalancer\atom.cpp
+	"Atom.h"
+	<string>
+	<set>
+	<iostream>
+
+1295573370 source:c:\users\shaun\documents\programming\c++\chemeqbalancer\molecule.cpp
+	"Molecule.h"
+	"Element.h"
+	<string>
+	<iostream>
+	<sstream>
+
+1295573489 c:\users\shaun\documents\programming\c++\chemeqbalancer\molecule.h
+	<vector>
+	<string>
+
+1295572980 c:\users\shaun\documents\programming\c++\chemeqbalancer\elements_rawlist.txt
+
+1295574270 c:\users\shaun\documents\programming\c++\chemeqbalancer\element.h
+	<iostream>
+	<set>
+	<string>
+	"elements_rawlist.txt"
+
+1295574086 source:c:\users\shaun\documents\programming\c++\chemeqbalancer\element.cpp
+	"Element.h"
+	<string>
+	<set>
+	<iostream>
+
